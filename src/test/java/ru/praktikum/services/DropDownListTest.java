@@ -7,7 +7,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import pages.HomePage;
+import ru.praktikum.services.pages.HomePage;
 
 import java.util.HashMap;
 import java.util.List;

@@ -3,8 +3,8 @@ package ru.praktikum.services;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
-import pages.HomePage;
-import pages.OrderPage;
+import ru.praktikum.services.pages.HomePage;
+import ru.praktikum.services.pages.OrderPage;
 
 
 import static org.junit.Assert.assertEquals;
